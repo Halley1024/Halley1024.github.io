@@ -11,7 +11,7 @@ mermaid: true
 # Github制作个人主页方法
 ## 一、选择主页主题（自制可略）
 
-1. 在[jekyll theme](http://jekyllthemes.org/)中寻找自己想要的主题
+1. 在jekyll theme:http://jekyllthemes.org中寻找自己想要的主题
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/9b7d8a6a45d542be8bd273d0a014d53e.png#pic_center)
 
