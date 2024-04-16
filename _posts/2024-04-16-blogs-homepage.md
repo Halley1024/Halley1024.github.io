@@ -9,19 +9,20 @@ math: true
 mermaid: true
 ---
 # Github制作个人主页方法
+
 ## 一、选择主页主题（自制可略）
 
-1. 在jekyll theme:http://jekyllthemes.org中寻找自己想要的主题
+1. 在jekyll theme网址:(http://jekyllthemes.org/)中寻找自己想要的主题
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/9b7d8a6a45d542be8bd273d0a014d53e.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112545783-135117717.png)
 
 
 2. 点击任意一款进入（示例）
 
-   
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/b0a5d21aa51b405e96e54c136b93f65f.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112558939-15268213.png)
 
-  ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/de7f854cebfe4f7886bac04900bb50ff.png#pic_center)
+
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112607269-1346705693.png)
 
 
 3. 点击Download
@@ -53,32 +54,32 @@ mermaid: true
 
 1. 创建新的仓库
 
-   ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/4187717ea36243769e41777f1574f382.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112903203-2000276840.png)
 
 
 2. 输入新仓库名称`GitHub的账户名.github.io`
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/59762de5a16646f2b0e72c6df85e0e98.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112919389-1510300754.png)
 
 
 
 3. 创建好后，直接上传文件夹（这里我已经创建了，因此不演示了）
 4. 将该仓库作为自己的主页
 
-   ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/df1d2d2bd2c941889b6e1d22ed8cc1d1.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112936126-1449552896.png)
 
 5. 设置
 
-   ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/78af4532f45d4f02984289d4a11f90dc.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112949252-1435798026.png)
 
 6. 构建部署
 
-   ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/4e24d423476f417398600fab8fb2f0a9.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416113009147-1035715250.png)
 
 
 7. 效果
 
-   ![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/8c98a36a1d734d19a62219aaa1a1870b.png#pic_center)
+   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416113017993-389524708.png)
 
+个人主页:[https://halley1024.github.io](https://halley1024.github.io)
 
-个人主页：[https://halley1024.github.io](https://halley1024.github.io)
