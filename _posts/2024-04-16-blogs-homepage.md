@@ -18,10 +18,10 @@ mermaid: true
 
 2. 点击任意一款进入（示例）
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112558939-15268213.png)
+   ![2](../assets/posts/2024-04-16-blogs-homepage/2.png)
 
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112607269-1346705693.png)
+   ![3](../assets/posts/2024-04-16-blogs-homepage/3.png)
 
 
 3. 点击Download
@@ -53,32 +53,32 @@ mermaid: true
 
 1. 创建新的仓库
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112903203-2000276840.png)
+   ![4](../assets/posts/2024-04-16-blogs-homepage/4.png)
 
 
 2. 输入新仓库名称`GitHub的账户名.github.io`
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112919389-1510300754.png)
+   ![5](../assets/posts/2024-04-16-blogs-homepage/5.png)
 
 
 
 3. 创建好后，直接上传文件夹（这里我已经创建了，因此不演示了）
 4. 将该仓库作为自己的主页
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112936126-1449552896.png)
+   ![6](../assets/posts/2024-04-16-blogs-homepage/6.png)
 
 5. 设置
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112949252-1435798026.png)
+   ![7](../assets/posts/2024-04-16-blogs-homepage/7.png)
 
 6. 构建部署
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416113009147-1035715250.png)
+   ![8](../assets/posts/2024-04-16-blogs-homepage/8.png)
 
 
 7. 效果
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416113017993-389524708.png)
+   ![9](../assets/posts/2024-04-16-blogs-homepage/9.png)
 
 个人主页:[https://halley1024.github.io](https://halley1024.github.io)
 
