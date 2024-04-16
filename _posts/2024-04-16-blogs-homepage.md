@@ -14,7 +14,7 @@ mermaid: true
 
 1. 在jekyll theme网址:(http://jekyllthemes.org/) 中寻找自己想要的主题
 
-   ![](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112545783-135117717.png)
+   ![jekyll theme](https://img2024.cnblogs.com/blog/3074043/202404/3074043-20240416112545783-135117717.png)
 
 
 2. 点击任意一款进入（示例）
